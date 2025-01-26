@@ -2,7 +2,7 @@
 ├── README.md  
 <br>
 ├── Week-1/  
-    <p> │   ├── Task-1/</p>
+       │   ├── Task-1/
   <br>
        │   ├── Task-2/ 
 <br>
